@@ -7,4 +7,3 @@ Third line - Merging divergent branches
 Rebase test
 
 Local change
-
