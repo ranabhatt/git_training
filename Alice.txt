@@ -6,4 +6,5 @@ Third line - Merging divergent branches
 
 Rebase test
 
-Remote change
+Local change
+
