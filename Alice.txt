@@ -5,3 +5,5 @@ Second line for branching.
 Third line - Merging divergent branches
 
 Rebase test
+
+Remote change
